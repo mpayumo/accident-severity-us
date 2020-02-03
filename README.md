@@ -4,7 +4,7 @@ Exploratory data analysis and machine learning model development of nationwide d
 
 ## Description
 
-!(img/FHP_in_Traffic_Accident.jpg "Florida road accident: Daniel Oines via Wikimedia Commons")
+![Road accident in Florida](img/FHP_in_Traffic_Accident.jpg "Florida road accident: Daniel Oines via Wikimedia Commons")
 
 The goal of this project is to investigate trends in U.S. car accidents and how it can be utilized to develop a machine learning classification model that will predict the likely severity of collision if it were to occur in a particular city. The severity is quantified with a range of 1 to 4 (1 being the least severe or least impact).
 
