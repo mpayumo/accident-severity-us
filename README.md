@@ -18,7 +18,7 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ![Frequency distribution by state](img/Frequency_dist_by_state.jpg "Frequency Distribution of U.S. Accidents by State")
 
-<img src="img/city-cloud.jpg">
+<img src="img/wordcloud.jpg">
 
 ## Model Development
 
