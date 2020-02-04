@@ -18,17 +18,25 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ![Severity frequency distribution](img/severity-dist.jpg "Frequency Distribution: Severity")
 
+---
+
 ### Frequency Distribution of U.S. Vehicular Accidents by State
 
 ![Frequency distribution by state](img/Frequency_dist_by_state.jpg "Frequency Distribution of U.S. Accidents by State")
+
+---
 
 ### Word cloud showing U.S. cities that experienced the most vehicular accidents
 
 <p align="center"><img src="img/wordcloud.jpg"></p>
 
+---
+
 ### Frequency Distribution of U.S. Vehicular Accidents by Day of Week
 
 ![Accidents of by day of week](img/dayofweek.jpg "U.S. Accidents by Day of Week")
+
+---
 
 ## Model Development
 
