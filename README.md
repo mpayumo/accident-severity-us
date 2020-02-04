@@ -24,7 +24,7 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ### Word cloud showing U.S. cities that experienced the most vehicular accidents
 
-<img src="img/wordcloud.jpg">
+<img src="img/wordcloud.jpg", align='center'>
 
 ## Model Development
 
