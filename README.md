@@ -1,6 +1,6 @@
 # Determining Severity of Vehicle Collisions in the U.S.
 
-> by: [<img src="img/linkedin.png" height="12" width="12"> Mark Payumo](https://www.linkedin.com/in/markpayumo/)
+> by: [<img src="img/linkedin.png" height="14" width="14"> Mark Payumo](https://www.linkedin.com/in/markpayumo/)
 
 Exploratory data analysis and machine learning model development of nationwide dataset on U.S. car accidents.
 
