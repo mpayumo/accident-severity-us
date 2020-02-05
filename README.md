@@ -15,7 +15,7 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 ## Exploratory Data Analysis
 
 
-### Frequency Distribution of U.S. Vehicular Accidents by State
+### U.S. Vehicular Accidents by State
 
 <p align="center"><img src="img/accidentsUS.jpg"></p
 
@@ -23,15 +23,17 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ---
 
-### Vehicular accidents usually imposed "manageable" delay upon commuters during the specified time period with Class 2 Severity occuring the most nationwide
+### Severity 
+
+Vehicular accidents usually imposed "manageable" delay upon commuters during the specified time period with Class 2 Severity occuring the most nationwide.
 
 ![Severity frequency distribution](img/severity-dist.jpg "Frequency Distribution: Severity")
 
 ---
 
-### Word cloud showing U.S. cities that experienced the most vehicular accidents out of 11,507 cities
+### Word Cloud: Make Your Voice Visually Heard
 
-The respective sizes of the words represent their share of the distribution.
+If cities had a way to make their voices heard, the respective sizes of their names would represent their share of the distribution upon the reader. Out of **11,507** U.S. cities, one can deduce which ones are most likely in need of attention.
 
 <p align="center"><img src="img/wordcloud.jpg"></p>
 
@@ -43,7 +45,7 @@ The respective sizes of the words represent their share of the distribution.
 
 ---
 
-### Frequency Distribution of U.S. Vehicular Accidents by Day of Week
+### Day of Week
 
 ![Accidents of by day of week](img/dayofweek.jpg "U.S. Accidents by Day of Week")
 
