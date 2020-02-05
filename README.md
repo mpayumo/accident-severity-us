@@ -39,7 +39,6 @@ If cities had a way to make their voices heard, the respective sizes of their na
 
 <p align="center"><img src="img/wordcloud.jpg"></p>
 
----
 
 ### Top 20 Cities with Most Vehicular Accidents
 
@@ -58,6 +57,10 @@ If cities had a way to make their voices heard, the respective sizes of their na
 Contrary to what would otherwise be popular intuition, most accidents occur during "fair winds, clear skies, and following seas."
 
 ![Accidents in different weather conditions](img/weather.jpg "Accidents in Different Weather Conditions")
+
+---
+
+![Time series](img/timeseries.jpg "U.S. Vehicular Accidents Over a Three-year Period")
 
 ---
 
