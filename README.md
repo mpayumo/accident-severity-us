@@ -60,9 +60,9 @@ Contrary to what would otherwise be popular intuition, most accidents occur duri
 
 ---
 
-### Time Series
+### inFOCUS: Time Series for California
 
-A spike in vehicular accidents impacted U.S. commuters in the middle of 2019.
+A spike in vehicular accidents impacted commuters in California towards the end of 2019.
 
 <p align="center"><img src="img/timeseries.jpg"></p>
 
