@@ -49,6 +49,14 @@ The respective sizes of the words represent their share of the distribution.
 
 ---
 
+### Weather Conditions
+
+Contrary to what would otherwise be popular intuition, most accidents occur during "fair winds, clear skies, and following seas."
+
+![Accidents in different weather conditions](img/weather.jpg "Accidents in Different Weather Conditions")
+
+---
+
 ## Model Development
 
 ## Conclusion
