@@ -26,9 +26,15 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ---
 
-### Word cloud showing U.S. cities that experienced the most vehicular accidents
+### Word cloud showing U.S. cities that experienced the most vehicular accidents out of 11,507 cities
 
 <p align="center"><img src="img/wordcloud.jpg"></p>
+
+---
+
+### Top 20 Cities with Most Vehicular Accidents
+
+![Top 20 Cities](img/topbar.jpg "Top 20 Cities with Most Vehicular Accidents")
 
 ---
 
