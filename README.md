@@ -17,7 +17,7 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ### Frequency Distribution of U.S. Vehicular Accidents by State
 
-![U.S. vehicular accidents heatmap](img/accidentsUS.jpg "U.S. Vehicular Accidents Heatmap")
+<p align="center"><img src="img/accidentsUS.jpg"></p
 
 ![Frequency distribution by state](img/Frequency_dist_by_state.jpg "Frequency Distribution of U.S. Accidents by State")
 
