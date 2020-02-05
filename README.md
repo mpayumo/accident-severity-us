@@ -59,8 +59,9 @@ Contrary to what would otherwise be popular intuition, most accidents occur duri
 ![Accidents in different weather conditions](img/weather.jpg "Accidents in Different Weather Conditions")
 
 ---
+## Model Development
 
-### inFOCUS: Time Series for California
+>### inFOCUS: Time Series for California
 
 A spike in vehicular accidents impacted commuters in California towards the end of 2019.
 
@@ -68,6 +69,5 @@ A spike in vehicular accidents impacted commuters in California towards the end 
 
 ---
 
-## Model Development
 
 ## Conclusion
