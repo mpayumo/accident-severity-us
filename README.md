@@ -37,7 +37,7 @@ Vehicular accidents usually imposed "manageable" delay upon commuters during the
 
 ---
 
-### Word Cloud: Make Your Voice Visually Heard
+### Make Your Voice Visually Heard
 
 If cities had a way to make their voices heard, the respective sizes of their names would represent their share of the distribution upon the reader. Out of **11,507** U.S. cities, one can deduce which ones are most likely in need of attention.
 
@@ -76,7 +76,7 @@ A spike in vehicular accidents impacted commuters in California towards the end 
 ---
 
 ### Correlation Heatmap
-> Numerical features vis-a-vis Severity
+>### Numerical features vis-á-vis Severity
 
 "Side" feature holds more promise of correlation with our target variable, "Severity," than the rest.
 
