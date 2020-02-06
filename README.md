@@ -61,7 +61,7 @@ Contrary to what would otherwise be popular intuition, most accidents occur duri
 ---
 ## Model Development
 
->### inFOCUS: Time Series for California
+>### Narrowing down to California
 
 A spike in vehicular accidents impacted commuters in California towards the end of 2019.
 
