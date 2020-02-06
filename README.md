@@ -78,7 +78,7 @@ A spike in vehicular accidents impacted commuters in California towards the end 
 ### Correlation Heatmap
 >### Numerical features vis-á-vis Severity
 
-"Side" feature holds more promise of correlation with our target variable, "Severity," than the rest. This heatmap shows six out of 96 features that have numerical values.
+Exploring how our features might satisfy the linearity assumption for linear regression, this heatmap shows five out of 96 features that have numerical values along with our target variable, "Severity." 
 
 <p align="center"><img src="img/correlation.jpg"></p>
 
