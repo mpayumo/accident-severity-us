@@ -8,7 +8,11 @@ Exploratory data analysis and machine learning model development of nationwide d
 
 ![Road accident in Florida](img/FHP_in_Traffic_Accident.jpg "Florida road accident: Daniel Oines via Wikimedia Commons")
 
-The **goal of this project** is to investigate trends in U.S. car accidents and use it to develop a machine learning regression model that will predict the likely severity of collision if it were to occur in a particular city. The severity is quantified within a range of **1 to 4** (1 being the least severe or least impact).
+The **goal of this project** is to investigate trends in U.S. car accidents and use it to develop a machine learning classification model that will predict the severity class of collision if it were to occur in a particular city. Severity is classified within a range of integers, **1 to 4** and which represent the following:
+> <ul><li>1 - Short Delay</li>
+    <li>2 - Manageable Delay</li>
+    <li>3 - Extended Delay</li>
+    <li>4 - Long Delay</li></ul>
 
 ## Data Source
 
@@ -66,6 +70,12 @@ Contrary to what would otherwise be popular intuition, most accidents occur duri
 A spike in vehicular accidents impacted commuters in California towards the end of 2019.
 
 <p align="center"><img src="img/timeseries.jpg"></p>
+
+---
+
+### Correlation Heatmap
+
+<p align="center"><img src="img/correlation.jpg"></p>
 
 ---
 
