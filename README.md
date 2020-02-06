@@ -76,6 +76,9 @@ A spike in vehicular accidents impacted commuters in California towards the end 
 ---
 
 ### Correlation Heatmap
+> Numerical features vis-a-vis Severity
+
+"Side" feature holds more promise of correlation with our target variable, "Severity," than the rest.
 
 <p align="center"><img src="img/correlation.jpg"></p>
 
