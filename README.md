@@ -125,10 +125,10 @@ The model performed slightly worse than Random Forest with an **R^2 score** of <
 
 Improved feature engineering, running models on the cloud especially with GridSearchCV will greatly develop this study, allowing it to run the full dataset. An AWS instance is currently being approved by Amazon, after which the models presented here will be uploaded and run on Sagemaker, and updated accordingly.
 
-The map below will also be developed further with added computing power. Click [here](img/map.html) to check which streets in San Francisco car accidents took place.
+The map below will also be developed further with added computing power. Click [here](https://payumo110.s3.amazonaws.com/map.html) to check which streets in San Francisco car accidents took place.
 
 
-<p align="center"><iframe src="s3://payumo110/map.html" width="1100" height="600"></iframe></p>
+<p align="center"><a href="https://payumo110.s3.amazonaws.com/map.html"><img src="img/map.html"></a></p>
 
 
 
