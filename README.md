@@ -23,6 +23,8 @@ The dataset is a nationwide traffic accident record of 49 U.S. states between Fe
 
 ### U.S. Vehicular Accidents by State
 
+California stands out as having the most share of traffic accidents followed by Texas, Florida, South Carolina, North Carolina, and upstate New York.
+
 <p align="center"><img src="img/accidentsUS.jpg"></p
 
 ![Frequency distribution by state](img/Frequency_dist_by_state.jpg "Frequency Distribution of U.S. Accidents by State")
