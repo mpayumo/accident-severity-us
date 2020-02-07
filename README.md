@@ -108,7 +108,7 @@ Random Forest Regression improved by more than twice the linear model with an **
 
 
 ### Gradient Boosting Regression
->### Based on Traffic accidents in San Francisco.
+>### Based on traffic accidents in San Francisco.
 
 Hyperparameters were set as follows:
 <ul><li>Learning Rate = 0.11</li>
