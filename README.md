@@ -48,6 +48,8 @@ If cities had a way to make their voices heard, the respective sizes of their na
 
 ### Top 20 Cities with Most Vehicular Accidents
 
+The frequency distribution below quantifies the word cloud above.
+
 ![Top 20 Cities](img/topbar.jpg "Top 20 Cities with Most Vehicular Accidents")
 
 ---
