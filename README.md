@@ -100,7 +100,7 @@ The linear model performed poorly with an **adjusted R^2** of **0.085**. **Heter
 ### Random Forest Regression
 >### Feature importances and an improved R^2
 
-Random Forest Regression improved by twice the linear model with an **R^2 score** of <code>0.17945677024559692</code>. Feature importances are shown below that may provide for better modeling.
+Random Forest Regression improved by more than twice the linear model with an **R^2 score** of <code>0.18487161528085205</code>. Feature importances are shown below that may provide for better modeling.
 
 <p align="center"><img src="img/featureimp.jpg"></p>
 
