@@ -101,15 +101,27 @@ The linear model performed poorly with an **adjusted R^2** of **0.089**. **Heter
 ### Random Forest Regression
 >### Feature importances and an improved R^2
  
-Random Forest Regression improved by more than twice the linear model with an **R^2 score** of <code>0.18487161528085205</code>. Feature importances are shown below that may provide for better modeling.
+Random Forest Regression improved by more than twice the linear model with an **R^2 score** of <code>0.18487161528085205</code>. **Mean squared error** (SF) is <code>0.2093141614501258</code>. Feature importances are shown below that may provide for better modeling.
 
 <p align="center"><img src="img/featureimp.jpg"></p>
 
 
+### Gradient Boosting Regression
+>### Limitations in computing power encouraged this project to model the subsample contingency that is narrowed down to San Francisco.
+
+Hyperparameters were set as follows:
+<ul><li>Learning Rate = 0.11</li>
+    <li>N Estimators = 100</li>
+    <li>Max Depth = 4</li>
+    <li>Subsample = 0.5</li></ul>
+    
+The model performed slightly worse than Random Forest with an **R^2 score** of <code>0.19156774891709116</code> and **mean squared error** is <code>0.20552179225176906</code>. The deviance plot below implies a need for further tuning and feature selection and engineering.
+
+![Deviance Plot](img/deviance.jpg "Test Set Deviance")
 
 
 ## Future Direction
 
-
+Improved feature engineering, running models on the cloud especially with GridSearchCV will greatly develop this study, allowing it to run the full dataset. An AWS instance is currently being approved by Amazon, after which the models presented here will be uploaded and run on Sagemaker, and updated accordingly.
 
 
