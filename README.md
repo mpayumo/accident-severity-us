@@ -56,6 +56,8 @@ The frequency distribution below quantifies the word cloud above.
 
 ### Day of Week
 
+More traffic accidents occur during the weekdays.
+
 ![Accidents of by day of week](img/dayofweek.jpg "U.S. Accidents by Day of Week")
 
 ---
