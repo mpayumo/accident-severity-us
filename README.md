@@ -94,7 +94,7 @@ Exploring how our features might satisfy the linearity assumption for linear reg
 ### Linear Regression
 >### OLS (Ordinary Least Squares) Summary
 
-The linear model performed poorly with an **adjusted R^2** of **0.089**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a **p-value** of <code>2.270459470776888e-10</code>. [^1]
+The linear model performed poorly with an **adjusted R^2** of **0.089**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a **p-value** of <code>2.270459470776888e-10</code>. <a href="#fn1">1</a>
 
 <p align="center"><img src="img/linearsummary.jpg"></p>
 
@@ -111,5 +111,5 @@ Random Forest Regression improved by more than twice the linear model with an **
 ## Future Direction
 
 
-[^1]: Obtained from a subsample contingency that narrows down the dataset to car accidents that occurred in the City of San Francisco due to limitations in computing power. It is assumed that the difference is negligible as is the case with the actual R^2 values in the linear and random forest models.
+<a href="#fnref1" rev="footnote">"Obtained from a subsample contingency that narrows down the dataset to car accidents that occurred in the City of San Francisco due to limitations in computing power. It is assumed that the difference is negligible as is the case with the actual R^2 values in the linear and random forest models."</a>
 
