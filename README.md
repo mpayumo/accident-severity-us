@@ -128,7 +128,7 @@ Improved feature engineering, running models on the cloud especially with GridSe
 The map below will also be developed further with added computing power. Click [here](https://payumo110.s3.amazonaws.com/map.html) to check which streets in San Francisco car accidents took place.
 
 
-<p align="center"><a href="https://payumo110.s3.amazonaws.com/map.html"><img src="img/map.html"></a></p>
+<p align="center"><a href="https://payumo110.s3.amazonaws.com/map.html"><img src="img/map.jpg"></a></p>
 
 
 
