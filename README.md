@@ -127,7 +127,7 @@ Improved feature engineering, running models on the cloud especially with GridSe
 
 The map below will also be developed further with added computing power. Click [here](img/map.html) to check which streets in San Francisco car accidents took place.
 
-<p align="center"><img src="img/map.jpg"></p>
+<iframe class="map", src="img/map.jpg" width="1100" height="600"></iframe>
 
 
 
