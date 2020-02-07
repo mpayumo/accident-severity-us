@@ -94,20 +94,21 @@ Exploring how our features might satisfy the linearity assumption for linear reg
 ### Linear Regression
 >### OLS (Ordinary Least Squares) Summary
 
-The linear model performed poorly with an **adjusted R^2** of **0.089**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a **p-value** of <code>2.270459470776888e-10</code>, obtained through a subsample contingency that narrows down the dataset to car accidents that occurred in the City of San Francisco due to limitations in computing power. It is assumed that the difference is negligible as is the case with the actual R^2 values in the linear and random forest models which were run on the full dataset.
+The linear model performed poorly with an **adjusted R^2** of **0.089**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a **p-value** of <code>2.270459470776888e-10</code>, obtained through a subsample contingency that narrows down the dataset to car accidents that occurred in the City of San Francisco due to limitations in computing power. The same number of features were utilized when obtaining the p-value.
 
 <p align="center"><img src="img/linearsummary.jpg"></p>
 
 ### Random Forest Regression
 >### Feature importances and an improved R^2
+> Limitations in computing power encouraged this project to model the subsample contingency that is narrowed down to San Francisco notwithstanding that the linear model was invalidated.
  
-Random Forest Regression improved by more than twice the linear model with an **R^2 score** of <code>0.18487161528085205</code>. **Mean squared error** (SF) is <code>0.2093141614501258</code>. Feature importances are shown below that may provide for better modeling.
+Random Forest Regression improved by more than twice the linear model with an **R^2 score** (SF) of <code>0.17945677024559692</code>. **Mean squared error** (SF) is <code>0.2093141614501258</code>. Feature importances are shown below that may provide for better modeling.
 
 <p align="center"><img src="img/featureimp.jpg"></p>
 
 
 ### Gradient Boosting Regression
->### Limitations in computing power encouraged this project to model the subsample contingency that is narrowed down to San Francisco.
+>### Based on Traffic accidents in San Francisco.
 
 Hyperparameters were set as follows:
 <ul><li>Learning Rate = 0.11</li>
