@@ -72,6 +72,7 @@ Contrary to what would otherwise be popular intuition, most accidents occur duri
 ## Model Development
 
 >### Narrowing down to California
+>### 96 features and 645,967 data points
 
 ### Time Series Analysis: Car Accidents in California
 
