@@ -87,7 +87,7 @@ Exploring how our features might satisfy the linearity assumption for linear reg
 ### Linear Regression
 >### OLS (Ordinary Least Squares) Summary
 
-The linear model performed poorly with an **adjusted-R^2** of **0.85**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a p-value of <code>2.270459470776888e-10</code>.
+The linear model performed poorly with an **adjusted R^2** of **0.85**. **Heteroscedascity** was also detected using the **Goldfeld-Quandt Test** with a **p-value** of <code>2.270459470776888e-10</code>.
 
 <p align="center"><img src="img/linearsummary.jpg"></p>
 
