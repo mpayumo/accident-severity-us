@@ -84,7 +84,19 @@ Exploring how our features might satisfy the linearity assumption for linear reg
 
 ---
 
-###
+### Linear Regression
+>### OLS (Ordinary Least Squares) Summary
+
+The linear model performed poorly with an Adjusted-R^2 of 0.85. Heteroscedascity was also detected using the **Goldfeld-Quandt Test** with a p-value of <code>2.270459470776888e-10</code>.
+
+<p align="center"><img src="img/linearsummary.jpg"></p>
+
+### Random Forest Regression
+>### Feature importances and an improved R^2
+
+Random Forest Regression improved by twice the linear model with an **R^2 score** of <code>0.17945677024559692</code>. Feature importances are shown below that may provide for better modeling.
+
+<p align="center"><img src="img/featureimp.jpg"></p>
 
 
 
