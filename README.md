@@ -117,7 +117,7 @@ Hyperparameters were set as follows:
     
 The model performed slightly worse than Random Forest with an **R^2 score** of <code>0.19156774891709116</code> and **mean squared error** is <code>0.20552179225176906</code>. The deviance plot below implies a need for further tuning and feature selection and engineering.
 
-<center>![Deviance Plot](img/deviance.jpg "Test Set Deviance")</center>
+<p align="center"><img src="img/deviance.jpg"></p>
 
 
 ## Future Direction
